@@ -1,0 +1,5 @@
+{
+  "name": "Canton CC Balance Batch Checker",
+  "description": "A batch query tool for checking CC balances on the Canton Lighthouse explorer.",
+  "requestFramePermissions": []
+}
